@@ -6,6 +6,6 @@ function fixNav() {
         nav.classList.add('active')
     }
     else{
-        nav.classList.remove('acrive')
+        nav.classList.remove('active')
     }
 }
